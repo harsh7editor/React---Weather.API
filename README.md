@@ -7,6 +7,7 @@
              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
              <img src="https://img.shields.io/badge/SheCodes-6932A8?style=for-the-badge" alt="SheCodes" />
 </div>
+ </div>
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](https://github.com/harsh7editor/your-repo-name)
